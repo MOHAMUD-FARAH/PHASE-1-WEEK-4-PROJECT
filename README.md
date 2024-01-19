@@ -1,9 +1,12 @@
-
 # Dog Adoption Project
 
 ## Introduction
 
 Welcome to the "Heaven's Home" Dog Adoption project, created by Mohamud Farah. This project aims to facilitate the adoption of street dogs and build a compassionate community that provides care, support, and forever homes for these animals.
+
+## Project Overview
+
+The project features a user-friendly web page where users can view images of dogs available for adoption and submit their information if they are interested in adopting or providing support. The page includes a form for users to enter their full names and phone numbers, expressing their commitment to the cause.
 
 ## Author
 
@@ -13,11 +16,14 @@ Welcome to the "Heaven's Home" Dog Adoption project, created by Mohamud Farah. T
 
 Follow these steps to set up the project locally:
 
-1.  **Open HTML File:** Open the `index.html` file in a web browser to view the project.
-
-## Project Overview
-
-The project features a user-friendly web page where users can view images of dogs available for adoption and submit their information if they are interested in adopting or providing support. The page includes a form for users to enter their full names and phone numbers, expressing their commitment to the cause.
+1.  **Clone the Repository:**
+    
+    
+    
+    `git clone https://github.com/your-username/dog-adoption.git` 
+    
+2.  **Open HTML File:** Open the `index.html` file in a web browser to view the project.
+    
 
 ## Project Structure
 
@@ -42,7 +48,7 @@ Contributions are welcome! If you have ideas for improvement or would like to co
 
 ## Support
 
-For any inquiries or issues, please contact Mohamud Farah at your-email@example.com.
+For any inquiries or issues, please contact Mohamud Farah at https://github.com/MOHAMUD-FARAH/PHASE-1-WEEK-4-PROJECT.git
 
 ## Acknowledgments
 
